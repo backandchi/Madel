@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aiko</string>
+    <string name="app_tagline">Shaxsiy AI Agent</string>
+    <string name="accessibility_service_description">Aiko AI Agent uchun UI avtomatlashtirish, ekranni o\'qish va tizim buyruqlarini bajarish xizmati.</string>
+</resources>
